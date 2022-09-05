@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "694604434698",
+    "firebase_url": "https://blooddonar-4cb0e.firebaseio.com",
+    "project_id": "blooddonar-4cb0e",
+    "storage_bucket": "blooddonar-4cb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694604434698:android:2f8d28d40f4698fe4dbef3",
+        "android_client_info": {
+          "package_name": "com.example.blooddonar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694604434698-89dogv792p97pi3rc1u1h3bgnm84g4te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blooddonar",
+            "certificate_hash": "9e1f12ed4e036323e53ae1e57046b2bf56aa4ae9"
+          }
+        },
+        {
+          "client_id": "694604434698-od22pu906g4sg0i8hk1i4pm4cj7cer9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blooddonar",
+            "certificate_hash": "40d6a54462b9b1939bf632b1732dccad04a1c3e9"
+          }
+        },
+        {
+          "client_id": "694604434698-ach4rsm477bt7d3u89mfseunqe1qq9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZxWTJVDEMJpOChLF7DYeNUJbibCReOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694604434698-ach4rsm477bt7d3u89mfseunqe1qq9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
